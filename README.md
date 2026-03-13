@@ -102,4 +102,6 @@ Models were evaluated using:
 - Scikit-Learn  
 - Jupyter Notebook
 
-Jupyter Notebook
+#  Conclusion
+
+This project demonstrates how machine learning can be applied to **real estate data** to build predictive models for housing prices. The Random Forest model provided the most accurate predictions and can serve as a foundation for building real-world property price prediction systems.
