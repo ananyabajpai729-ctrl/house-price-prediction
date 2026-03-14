@@ -6,6 +6,25 @@ This project builds a **machine learning regression model** to predict housing p
 The project demonstrates a complete **data science workflow**, including data cleaning, exploratory data analysis, feature engineering, model training, and evaluation.
 
 ---
+## Key Visualizations
+
+### Correlation Heatmap
+![Correlation Heatmap](images/corr_heatmap.png)
+
+### House Price Distribution
+![House Price Distribution](images/dist_hp.png)
+
+### Price by Area Type
+![Price by Area Type](images/price_by_areatype.png)
+
+### Price vs BHK
+![Price vs BHK](images/price_vs_bhk.png)
+
+### Price vs Total Area
+![Price vs Total Area](images/price_vs_totalarea.png)
+
+### Top 5 Important Features
+![Top 5 Important Features](images/top5features.png)
 
 #  Dataset
 
